@@ -1,7 +1,7 @@
 {
-  "name": "imacros-csv-loader",
+  "name": "imacros-parse-csv",
   "version": "1.0.0",
-  "description": "Load data from csv file format into iMacros for further processing.",
+  "description": "Parse data from csv file format for further processing.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyxou/imacros-csv-loader.git"
+    "url": "git+https://github.com/cyxou/imacros-parse-csv.git"
   },
   "author": "cyxou",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cyxou/imacros-csv-loader/issues"
+    "url": "https://github.com/cyxou/imacros-parse-csv/issues"
   },
-  "homepage": "https://github.com/cyxou/imacros-csv-loader#readme",
+  "homepage": "https://github.com/cyxou/imacros-parse-csv#readme",
   "dependencies": {
     "babyparse": "cyxou/babyparse"
   },
