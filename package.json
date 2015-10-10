@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/cyxou/imacros-parse-csv#readme",
   "dependencies": {
-    "babyparse": "cyxou/babyparse"
+    "babyparse": "cyxou/babyparse",
+    "imacros-fio": "github:cyxou/imacros-fio"
   },
   "devDependencies": {
     "browserify": "^11.2.0"
